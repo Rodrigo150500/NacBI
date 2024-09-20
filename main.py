@@ -62,7 +62,7 @@ pecas_unicas = pecas_df['nome_da_peca'].unique()
 
 # Função para calcular tendência usando regressão linear para as peças
 def calculate_trend_pecas(pecas_df, peca):
-    peca_data = pecas_df[pecas_df['nome_da_peca'] == peca].copy()  # Cópia explícita para evitar o erro
+    peca_data = pecas_df[pecas_df['nome_da_peca'] == peca].copy()
     dias = peca_data['dia'].values.reshape(-1, 1)
     quantidades = peca_data['quantidade'].values
     model = LinearRegression()

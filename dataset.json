@@ -1,0 +1,418 @@
+[
+    {
+        "data": "2024-09-19",
+        "gasto_de_energia_kWh": 12.3,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 5},
+            {"nome_da_peca": "pneu", "quantidade": 6},
+            {"nome_da_peca": "bateria", "quantidade": 2}
+        ],
+        "tempo_de_operacao_horas": 7.5,
+        "tempo_de_inatividade_horas": 1.5,
+        "tempo_medio_para_trocar_um_componente_minutos": 12,
+        "temperatura_de_operacao_C": 65
+    },
+    {
+        "data": "2024-09-20",
+        "gasto_de_energia_kWh": 11.8,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "pneu", "quantidade": 10},
+            {"nome_da_peca": "bateria", "quantidade": 5},
+            {"nome_da_peca": "amortecedor", "quantidade": 3}
+        ],
+        "tempo_de_operacao_horas": 8.0,
+        "tempo_de_inatividade_horas": 1.0,
+        "tempo_medio_para_trocar_um_componente_minutos": 14,
+        "temperatura_de_operacao_C": 68
+    },
+    {
+        "data": "2024-09-21",
+        "gasto_de_energia_kWh": 13.2,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 7},
+            {"nome_da_peca": "bateria", "quantidade": 9},
+            {"nome_da_peca": "pneu", "quantidade": 1}
+        ],
+        "tempo_de_operacao_horas": 7.8,
+        "tempo_de_inatividade_horas": 1.2,
+        "tempo_medio_para_trocar_um_componente_minutos": 10,
+        "temperatura_de_operacao_C": 66
+    },
+    {
+        "data": "2024-09-22",
+        "gasto_de_energia_kWh": 12.6,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "pneu", "quantidade": 4},
+            {"nome_da_peca": "amortecedor", "quantidade": 5},
+            {"nome_da_peca": "bateria", "quantidade": 1}
+        ],
+        "tempo_de_operacao_horas": 7.2,
+        "tempo_de_inatividade_horas": 1.8,
+        "tempo_medio_para_trocar_um_componente_minutos": 15,
+        "temperatura_de_operacao_C": 67
+    },
+    {
+        "data": "2024-09-23",
+        "gasto_de_energia_kWh": 14.0,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "bateria", "quantidade": 3},
+            {"nome_da_peca": "amortecedor", "quantidade": 4},
+            {"nome_da_peca": "pneu", "quantidade": 2}
+        ],
+        "tempo_de_operacao_horas": 8.5,
+        "tempo_de_inatividade_horas": 0.5,
+        "tempo_medio_para_trocar_um_componente_minutos": 13,
+        "temperatura_de_operacao_C": 70
+    },
+    {
+        "data": "2024-09-24",
+        "gasto_de_energia_kWh": 13.8,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "pneu", "quantidade": 9},
+            {"nome_da_peca": "amortecedor", "quantidade": 2},
+            {"nome_da_peca": "bateria", "quantidade": 1}
+        ],
+        "tempo_de_operacao_horas": 8.2,
+        "tempo_de_inatividade_horas": 0.8,
+        "tempo_medio_para_trocar_um_componente_minutos": 16,
+        "temperatura_de_operacao_C": 69
+    },
+    {
+        "data": "2024-09-25",
+        "gasto_de_energia_kWh": 14.5,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "bateria", "quantidade": 6},
+            {"nome_da_peca": "amortecedor", "quantidade": 3},
+            {"nome_da_peca": "pneu", "quantidade": 4}
+        ],
+        "tempo_de_operacao_horas": 8.4,
+        "tempo_de_inatividade_horas": 0.6,
+        "tempo_medio_para_trocar_um_componente_minutos": 14,
+        "temperatura_de_operacao_C": 72
+    },
+    {
+        "data": "2024-09-26",
+        "gasto_de_energia_kWh": 13.2,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "pneu", "quantidade": 8},
+            {"nome_da_peca": "bateria", "quantidade": 4},
+            {"nome_da_peca": "amortecedor", "quantidade": 1}
+        ],
+        "tempo_de_operacao_horas": 7.9,
+        "tempo_de_inatividade_horas": 1.1,
+        "tempo_medio_para_trocar_um_componente_minutos": 12,
+        "temperatura_de_operacao_C": 68
+    },
+    {
+        "data": "2024-09-27",
+        "gasto_de_energia_kWh": 12.9,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 5},
+            {"nome_da_peca": "pneu", "quantidade": 3},
+            {"nome_da_peca": "bateria", "quantidade": 2}
+        ],
+        "tempo_de_operacao_horas": 8.1,
+        "tempo_de_inatividade_horas": 0.9,
+        "tempo_medio_para_trocar_um_componente_minutos": 15,
+        "temperatura_de_operacao_C": 67
+    },
+    {
+        "data": "2024-09-28",
+        "gasto_de_energia_kWh": 14.3,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "pneu", "quantidade": 7},
+            {"nome_da_peca": "amortecedor", "quantidade": 4},
+            {"nome_da_peca": "bateria", "quantidade": 2}
+        ],
+        "tempo_de_operacao_horas": 8.7,
+        "tempo_de_inatividade_horas": 0.3,
+        "tempo_medio_para_trocar_um_componente_minutos": 13,
+        "temperatura_de_operacao_C": 71
+    },
+    {
+        "data": "2024-09-29",
+        "gasto_de_energia_kWh": 13.6,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 6},
+            {"nome_da_peca": "pneu", "quantidade": 4},
+            {"nome_da_peca": "bateria", "quantidade": 3}
+        ],
+        "tempo_de_operacao_horas": 8.3,
+        "tempo_de_inatividade_horas": 0.7,
+        "tempo_medio_para_trocar_um_componente_minutos": 14,
+        "temperatura_de_operacao_C": 68
+    },
+    {
+        "data": "2024-09-30",
+        "gasto_de_energia_kWh": 14.1,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 3},
+            {"nome_da_peca": "bateria", "quantidade": 5},
+            {"nome_da_peca": "pneu", "quantidade": 2}
+        ],
+        "tempo_de_operacao_horas": 7.4,
+        "tempo_de_inatividade_horas": 1.6,
+        "tempo_medio_para_trocar_um_componente_minutos": 16,
+        "temperatura_de_operacao_C": 66
+    },
+    {
+        "data": "2024-10-01",
+        "gasto_de_energia_kWh": 10.5,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "bateria", "quantidade": 3},
+            {"nome_da_peca": "pneu", "quantidade": 5},
+            {"nome_da_peca": "amortecedor", "quantidade": 1}
+        ],
+        "tempo_de_operacao_horas": 6.5,
+        "tempo_de_inatividade_horas": 2.5,
+        "tempo_medio_para_trocar_um_componente_minutos": 10,
+        "temperatura_de_operacao_C": 60
+    },
+    {
+        "data": "2024-10-02",
+        "gasto_de_energia_kWh": 11.0,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 6},
+            {"nome_da_peca": "bateria", "quantidade": 2},
+            {"nome_da_peca": "pneu", "quantidade": 1}
+        ],
+        "tempo_de_operacao_horas": 7.0,
+        "tempo_de_inatividade_horas": 1.0,
+        "tempo_medio_para_trocar_um_componente_minutos": 12,
+        "temperatura_de_operacao_C": 62
+    },
+    {
+        "data": "2024-10-03",
+        "gasto_de_energia_kWh": 10.2,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 4},
+            {"nome_da_peca": "pneu", "quantidade": 5},
+            {"nome_da_peca": "bateria", "quantidade": 2}
+        ],
+        "tempo_de_operacao_horas": 5.5,
+        "tempo_de_inatividade_horas": 3.5,
+        "tempo_medio_para_trocar_um_componente_minutos": 15,
+        "temperatura_de_operacao_C": 64
+    },
+    {
+        "data": "2024-10-04",
+        "gasto_de_energia_kWh": 10.5,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "radiador", "quantidade": 2},
+            {"nome_da_peca": "amortecedor", "quantidade": 3},
+            {"nome_da_peca": "bateria", "quantidade": 1}
+        ],
+        "tempo_de_operacao_horas": 6.0,
+        "tempo_de_inatividade_horas": 2.0,
+        "tempo_medio_para_trocar_um_componente_minutos": 14,
+        "temperatura_de_operacao_C": 66
+    },
+    {
+        "data": "2024-10-05",
+        "gasto_de_energia_kWh": 11.2,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 5},
+            {"nome_da_peca": "pneu", "quantidade": 3},
+            {"nome_da_peca": "bateria", "quantidade": 2}
+        ],
+        "tempo_de_operacao_horas": 7.1,
+        "tempo_de_inatividade_horas": 1.9,
+        "tempo_medio_para_trocar_um_componente_minutos": 13,
+        "temperatura_de_operacao_C": 65
+    },
+    {
+        "data": "2024-10-06",
+        "gasto_de_energia_kWh": 12.0,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "pneu", "quantidade": 6},
+            {"nome_da_peca": "amortecedor", "quantidade": 2},
+            {"nome_da_peca": "bateria", "quantidade": 3}
+        ],
+        "tempo_de_operacao_horas": 7.5,
+        "tempo_de_inatividade_horas": 1.5,
+        "tempo_medio_para_trocar_um_componente_minutos": 12,
+        "temperatura_de_operacao_C": 67
+    },
+    {
+        "data": "2024-10-07",
+        "gasto_de_energia_kWh": 13.1,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 4},
+            {"nome_da_peca": "bateria", "quantidade": 5},
+            {"nome_da_peca": "pneu", "quantidade": 1}
+        ],
+        "tempo_de_operacao_horas": 8.0,
+        "tempo_de_inatividade_horas": 0.5,
+        "tempo_medio_para_trocar_um_componente_minutos": 15,
+        "temperatura_de_operacao_C": 68
+    },
+    {
+        "data": "2024-10-08",
+        "gasto_de_energia_kWh": 11.9,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "pneu", "quantidade": 8},
+            {"nome_da_peca": "amortecedor", "quantidade": 3},
+            {"nome_da_peca": "bateria", "quantidade": 2}
+        ],
+        "tempo_de_operacao_horas": 6.5,
+        "tempo_de_inatividade_horas": 1.5,
+        "tempo_medio_para_trocar_um_componente_minutos": 14,
+        "temperatura_de_operacao_C": 66
+    },
+    {
+        "data": "2024-10-09",
+        "gasto_de_energia_kWh": 10.8,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 6},
+            {"nome_da_peca": "bateria", "quantidade": 4},
+            {"nome_da_peca": "pneu", "quantidade": 2}
+        ],
+        "tempo_de_operacao_horas": 5.8,
+        "tempo_de_inatividade_horas": 2.2,
+        "tempo_medio_para_trocar_um_componente_minutos": 13,
+        "temperatura_de_operacao_C": 64
+    },
+    {
+        "data": "2024-10-10",
+        "gasto_de_energia_kWh": 12.5,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "pneu", "quantidade": 5},
+            {"nome_da_peca": "amortecedor", "quantidade": 2},
+            {"nome_da_peca": "bateria", "quantidade": 3}
+        ],
+        "tempo_de_operacao_horas": 7.0,
+        "tempo_de_inatividade_horas": 1.0,
+        "tempo_medio_para_trocar_um_componente_minutos": 12,
+        "temperatura_de_operacao_C": 65
+    },
+    {
+        "data": "2024-10-11",
+        "gasto_de_energia_kWh": 13.0,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "bateria", "quantidade": 3},
+            {"nome_da_peca": "amortecedor", "quantidade": 4},
+            {"nome_da_peca": "pneu", "quantidade": 2}
+        ],
+        "tempo_de_operacao_horas": 6.5,
+        "tempo_de_inatividade_horas": 1.5,
+        "tempo_medio_para_trocar_um_componente_minutos": 13,
+        "temperatura_de_operacao_C": 66
+    },
+    {
+        "data": "2024-10-12",
+        "gasto_de_energia_kWh": 11.6,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 7},
+            {"nome_da_peca": "pneu", "quantidade": 1},
+            {"nome_da_peca": "bateria", "quantidade": 4}
+        ],
+        "tempo_de_operacao_horas": 5.0,
+        "tempo_de_inatividade_horas": 3.0,
+        "tempo_medio_para_trocar_um_componente_minutos": 14,
+        "temperatura_de_operacao_C": 63
+    },
+    {
+        "data": "2024-10-13",
+        "gasto_de_energia_kWh": 12.3,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "pneu", "quantidade": 6},
+            {"nome_da_peca": "amortecedor", "quantidade": 5},
+            {"nome_da_peca": "bateria", "quantidade": 2}
+        ],
+        "tempo_de_operacao_horas": 7.4,
+        "tempo_de_inatividade_horas": 1.6,
+        "tempo_medio_para_trocar_um_componente_minutos": 12,
+        "temperatura_de_operacao_C": 67
+    },
+    {
+        "data": "2024-10-14",
+        "gasto_de_energia_kWh": 11.5,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 4},
+            {"nome_da_peca": "pneu", "quantidade": 3},
+            {"nome_da_peca": "bateria", "quantidade": 1}
+        ],
+        "tempo_de_operacao_horas": 6.2,
+        "tempo_de_inatividade_horas": 1.8,
+        "tempo_medio_para_trocar_um_componente_minutos": 13,
+        "temperatura_de_operacao_C": 68
+    },
+    {
+        "data": "2024-10-15",
+        "gasto_de_energia_kWh": 12.1,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "pneu", "quantidade": 2},
+            {"nome_da_peca": "amortecedor", "quantidade": 4},
+            {"nome_da_peca": "bateria", "quantidade": 5}
+        ],
+        "tempo_de_operacao_horas": 5.9,
+        "tempo_de_inatividade_horas": 2.1,
+        "tempo_medio_para_trocar_um_componente_minutos": 14,
+        "temperatura_de_operacao_C": 66
+    },
+    {
+        "data": "2024-10-16",
+        "gasto_de_energia_kWh": 10.9,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 3},
+            {"nome_da_peca": "bateria", "quantidade": 4},
+            {"nome_da_peca": "pneu", "quantidade": 2}
+        ],
+        "tempo_de_operacao_horas": 7.2,
+        "tempo_de_inatividade_horas": 1.8,
+        "tempo_medio_para_trocar_um_componente_minutos": 12,
+        "temperatura_de_operacao_C": 65
+    },
+    {
+        "data": "2024-10-17",
+        "gasto_de_energia_kWh": 11.3,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "pneu", "quantidade": 4},
+            {"nome_da_peca": "amortecedor", "quantidade": 2},
+            {"nome_da_peca": "bateria", "quantidade": 3}
+        ],
+        "tempo_de_operacao_horas": 6.8,
+        "tempo_de_inatividade_horas": 1.2,
+        "tempo_medio_para_trocar_um_componente_minutos": 14,
+        "temperatura_de_operacao_C": 64
+    },
+    {
+        "data": "2024-10-18",
+        "gasto_de_energia_kWh": 10.6,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "bateria", "quantidade": 3},
+            {"nome_da_peca": "amortecedor", "quantidade": 5},
+            {"nome_da_peca": "pneu", "quantidade": 1}
+        ],
+        "tempo_de_operacao_horas": 5.4,
+        "tempo_de_inatividade_horas": 2.6,
+        "tempo_medio_para_trocar_um_componente_minutos": 13,
+        "temperatura_de_operacao_C": 63
+    },
+    {
+        "data": "2024-10-19",
+        "gasto_de_energia_kWh": 9.8,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "amortecedor", "quantidade": 4},
+            {"nome_da_peca": "pneu", "quantidade": 3},
+            {"nome_da_peca": "bateria", "quantidade": 2}
+        ],
+        "tempo_de_operacao_horas": 6.0,
+        "tempo_de_inatividade_horas": 2.0,
+        "tempo_medio_para_trocar_um_componente_minutos": 12,
+        "temperatura_de_operacao_C": 62
+    },
+    {
+        "data": "2024-10-20",
+        "gasto_de_energia_kWh": 11.7,
+        "pecas_mais_trocadas": [
+            {"nome_da_peca": "pneu", "quantidade": 2},
+            {"nome_da_peca": "amortecedor", "quantidade": 3},
+            {"nome_da_peca": "bateria", "quantidade": 4}
+        ],
+        "tempo_de_operacao_horas": 6.3,
+        "tempo_de_inatividade_horas": 1.7,
+        "tempo_medio_para_trocar_um_componente_minutos": 13,
+        "temperatura_de_operacao_C": 64
+    }
+]

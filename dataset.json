@@ -198,7 +198,7 @@
         "data": "2024-10-04",
         "gasto_de_energia_kWh": 10.5,
         "pecas_mais_trocadas": [
-            {"nome_da_peca": "radiador", "quantidade": 2},
+            {"nome_da_peca": "pneu", "quantidade": 2},
             {"nome_da_peca": "amortecedor", "quantidade": 3},
             {"nome_da_peca": "bateria", "quantidade": 1}
         ],
